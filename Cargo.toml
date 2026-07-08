@@ -3,7 +3,7 @@
 # =============================================================================
 [package]
 name    = "driver-lang"
-version = "0.1.0"
+version = "1.0.0"
 
 # Minimum Supported Rust Version (MSRV)
 rust-version = "1.85"
@@ -19,10 +19,10 @@ readme = "README.md"
 description = "Compiler driver and session orchestration."
 
 # Keywords (5 max)
-keywords = [compiler,language,driver,session]
+keywords = ["compiler", "language", "driver", "session", "pipeline"]
 
 # Categories
-categories = [development-tools,compilers]
+categories = ["development-tools", "compilers"]
 
 # Links
 homepage      = "https://github.com/jamesgober/driver-lang"
