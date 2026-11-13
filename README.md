@@ -18,7 +18,7 @@
 
 <div align="left">
     <p>
-        driver-lang is the TOOL-tier crate: the driver that ties a compiler's phases into one run — session state, diagnostics, and a type-checked stage pipeline. Part of the -lang language-construction family; see _strategy/LANG_COLLECTION.md for the master plan.
+        driver-lang is the TOOL-tier crate: the driver that ties a compiler's phases into one run — session state, diagnostics, and a type-checked stage pipeline. Part of the -lang language-construction family.
     </p>
     <br>
     <hr>
